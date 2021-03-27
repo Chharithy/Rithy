@@ -1,0 +1,169 @@
+body{
+    font-family: 'Ubuntu', sans-serif;
+    background-color: rgb(157, 196, 233);
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.jumbotron{
+    padding: 5rem 2rem;
+}
+
+.navbar-brand{
+    font-size: 24px;
+}
+
+nav{
+    font-weight: 700;
+}
+
+.infor-header h1 {
+    font-size: 55px;
+    font-weight: 700;
+}
+
+.infor-header h4 {
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.infor-body p{
+    line-height: 1.2;
+}
+
+.info-social a{
+    width: 45px;
+    height: 45px;
+    line-height: 20px;
+    display: inline-block;
+    background-color: rgb(56, 146, 230);
+    color: whitesmoke;
+    text-align: center;
+    border-radius: 50%;
+    margin-left: 10px;
+    border:1px solid white;
+    transition: all 0.5s ease 0s;
+}
+
+.info-social .facebook:hover{
+    background-color: red;
+}
+
+.info-social .youtube:hover{
+    background-color: red;
+}
+
+.info-social .twitter:hover{
+    background-color: red;
+}
+
+.info-social .reddit:hover{
+    background-color: red;
+}
+
+.info-social .google:hover{
+    background-color: red;
+}
+
+.infor-body i{
+    margin-right: 10px;
+    
+}
+
+.jumpo {
+    margin-left: 25px;
+}
+
+.btn-group {
+    margin-left: 200px;
+    
+}
+
+.CV{
+    margin-left: 35%;
+}
+
+section h2{
+    font-size: 32px;
+    font-weight: 700;
+}
+
+footer{
+    border-top: 2px solid;
+    border-color: blue;
+    margin-top: 5rem;
+    padding-top: 20px;
+}
+
+footer h4{
+    font-weight: 700;
+}
+
+footer .Phone:hover{
+    color: blue;
+}
+
+footer a{
+    color:red;
+    transition: all 0.5s ease 0s;
+}
+
+.Edu {
+    margin-left: 25px;
+    padding-top: 100px;
+}
+
+.Edu p{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 18px;
+    font-weight: 900;
+    margin:0;
+}
+
+.exp {
+    margin-left: 25px;
+    padding-top: 100px;
+}
+
+.exp p{
+    text-align: center;
+    padding-top: 50px;
+    font-size: 18px;
+    font-weight: 900;
+    margin:0;
+}
+
+.int {
+    margin-left: 25px;
+    padding-top: 100px;
+}
+
+.int p{
+    font-size: 20px;
+    padding-top: 25px;
+
+}
+
+.contact {
+    font-size: 20px;
+    padding-top: 50px;
+    margin-left: 25px;
+}
+
+section{
+    padding: 50px 0;
+}
+
+section h2{
+    padding: 50px 0;
+}
+
+.map {
+    padding-top: 80px;
+    margin-left: 15%;
+}
+
+
